@@ -1,0 +1,6 @@
+```txt id="6ehjlwm"
+# No external libraries are required
+
+# Python built-in module used:
+re
+```
